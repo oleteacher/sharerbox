@@ -527,7 +527,7 @@ function sharerbox(options) {
 			</svg>
 		</object>
 		<!--Send Email Button-->
-		<object class="extra-buttons-fig" id="send-email-button-fig">
+		<object class="extra-buttons-fig" id="send-email-button-fig" target="_blank">
 			<a class="sharerbox-socialmedia-link" id="send-email-link" title="Email">
 				<svg class="extra-buttons" id="send-email-button" enable-background="new 0 0 493.497 493.497" viewBox="0 0 493.5 493.5" >
 					<rect id="sb-email-envelope-bg" x="90.963" y="146.38" width="314.71" height="197.09" fill="white"/>
